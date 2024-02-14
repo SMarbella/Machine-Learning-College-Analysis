@@ -6,8 +6,8 @@ This project uses the College dataset from https://book.huihoo.com/introduction-
 -	`Apps` : Number of applications received
 -	`Accept` : Number of applicants accepted
 -	`Enroll` : Number of new students enrolled
--	`Top10perc` : New students from top 10 % of high school class
--	`Top25perc` : New students from top 25 % of high school class
+-	`Top10perc` : New students from top 10% of high school class
+-	`Top25perc` : New students from top 25% of high school class
 -	`F.Undergrad` : Number of full-time undergraduates
 -	`P.Undergrad` : Number of part-time undergraduates
 -	`Outstate`  : Out-of-state tuition
@@ -49,4 +49,14 @@ In Figure 3, public universities have cheaper out-of-state tuition prices than p
 
 In Figure 4, elite universities have higher out-of-state tuition costs than non-elite universities.
 
+## Four Histograms
+![Image](https://github.com/SMarbella/Machine-Learning-College-Analysis/blob/main/Images/Multiple%20Histograms%20Applications%20Top%2010%20Percent%20Percent%20Alumni%20Percent%20Accepted.png)
+- **Figure 5.** Four histograms that show the number of colleges that fit under each binning category.
+
+In Figure 5, the four histograms show the number of colleges that fit under each binning category. The histograms include the number of applications received, new students from the top 10% of high school class, the percentage of alumni who donate, and the number of applicants accepted. The histogram puts each college into its closest estimates. For example, less than 50 colleges accept 20,000 applicants.
+
 ## Exploring Graduation Rates and Comparing Instructional Expenditure Per Student and Graduation Rates
+![Image](https://github.com/SMarbella/Machine-Learning-College-Analysis/blob/main/Images/Comparing%20Instructional%20Expenditure%20Per%20Student%20and%20Graduation%20Rates.png)
+- **Figure 6.** Four graphs that explore the graduation rates and compare instructional expenditure per student and graduation rates using different graph formats.
+
+In Figure 6, elite universities have higher graduation rates than non-elite universities. Colleges with higher tuition fees have higher graduation rates. Private universities have higher graduation rates than public universities. There are more private elite universities than public elite universities. 
