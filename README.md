@@ -47,7 +47,7 @@ In Figure 3, public universities have cheaper out-of-state tuition prices than p
 ![Image](https://github.com/SMarbella/Machine-Learning-College-Analysis/blob/main/Images/Number%20of%20Elite%20Universities.png)
 - **Figure 4.** Box plot comparing the out-of-state tuition costs of colleges and elite colleges.
 
-In Figure 4, elite universities have higher out-of-state tuition costs than non-elite universities.
+In Figure 4, elite universities have higher out-of-state tuition costs than non-elite universities. There are more elite universities than non-elite universities.
 
 ## Four Histograms
 ![Image](https://github.com/SMarbella/Machine-Learning-College-Analysis/blob/main/Images/Multiple%20Histograms%20Applications%20Top%2010%20Percent%20Percent%20Alumni%20Percent%20Accepted.png)
